@@ -34,8 +34,15 @@ I like to eat mango ice cream
 suddenly an extra line
 10
 
+<<<<<<< HEAD
 #### Daniel's Changes
 blah blah blah blah
 Daniel > Keiran > Ross
 code code code
 data
+=======
+## Ross' mistakes
+hi
+why are we doing this
+im dying inside
+>>>>>>> 7023788b5d2889f8196745565dc3901ccb11bd12
