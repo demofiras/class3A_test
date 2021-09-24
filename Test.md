@@ -1,12 +1,22 @@
 # Hello World
 
+yeet
+idk what this activity even is lol
+like what are we doing
+what is coding
+what is the universe
+what is the meaning of life
+
+
+42
+
 This is a test
 
 1 there are this many cool things on this lineintegral.
 
 2 there are this many cool things on this line. Chemistry is cool.
 
-3 there are this many cool things on this line.
+3 bruh bruh bruh bruh i am creating chaos
 
 4 there are this many cool things on this line.
 
