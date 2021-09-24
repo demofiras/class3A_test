@@ -33,3 +33,7 @@ if you read this you are cool
 I like to eat mango ice cream
 suddenly an extra line
 10
+
+dog eats dog
+fool id alive
+cat marries lion 
